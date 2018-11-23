@@ -1,5 +1,5 @@
 # Arduino connected bottle
-Arduino connected bottle for cyclists with dead man alert using Sigfox network
+Arduino connected bottle for cyclists with fall detection and alert using Sigfox network
 
 ## Device
 ![Device](https://altab.fr/share/pics/connected-bottle.jpg "Device")
